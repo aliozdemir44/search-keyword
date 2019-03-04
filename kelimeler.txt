@@ -41,6 +41,7 @@ eimr
 sandalye
 yastik
 su
+trabzon
 yatak
 tablet
 insan
